@@ -1,5 +1,5 @@
 category: Net
-requires: cygwin libGeoIP1
+requires: libGeoIP1
 sdesc: "GeoIP C library (utilities)"
 ldesc: "GeoIP is a C library that enables the user to find geographical 
 and network information of an IP address. Included is a free GeoLite 
