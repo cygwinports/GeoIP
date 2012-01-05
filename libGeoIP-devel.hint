@@ -1,5 +1,5 @@
 category: Net
-requires: zlib libGeoIP1
+requires: zlib-devel libGeoIP1
 external-source: GeoIP
 sdesc: "GeoIP C library (development)"
 ldesc: "GeoIP is a C library that enables the user to find geographical 
