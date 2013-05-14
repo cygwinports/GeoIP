@@ -1,7 +1,0 @@
-category: Net
-requires: zlib-devel libGeoIP1
-external-source: GeoIP
-sdesc: "GeoIP C library (development)"
-ldesc: "GeoIP is a C library that enables the user to find geographical 
-and network information of an IP address. Included is a free GeoLite 
-Country database that is updated at the beginning of every month."
